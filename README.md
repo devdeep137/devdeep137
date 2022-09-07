@@ -8,8 +8,8 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![Vasuji's github stats](https://github-readme-stats.vercel.app/api?username=vasuji&show_icons=true&hide_border=true)
-![Vasuji's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=vasuji&show_icons=true&hide_border=true")
+![Vasuji's github stats](https://github-readme-stats.vercel.app/api?username=evdeep137&show_icons=true&hide_border=true)
+![Vasuji's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evdeep137&show_icons=true&hide_border=true")
 <br />
 <p align="center">
     <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=evdeep137.evdeep137" />
