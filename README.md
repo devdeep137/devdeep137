@@ -8,11 +8,11 @@
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 
-![Vasuji's github stats](https://github-readme-stats.vercel.app/api?username=evdeep137&show_icons=true&hide_border=true)
-![Vasuji's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=evdeep137&show_icons=true&hide_border=true")
+![Vasuji's github stats](https://github-readme-stats.vercel.app/api?username=devdeep137&show_icons=true&hide_border=true)
+![Vasuji's github Programming stats](https://github-readme-stats.vercel.app/api/top-langs/?username=devdeep137&show_icons=true&hide_border=true")
 <br />
 <p align="center">
-    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=evdeep137.evdeep137" />
+    <img align="center" alt="visitors" src="https://visitor-badge.laobi.icu/badge?page_id=devdeep137.devdeep137" />
 </p>
 <!--![visitors](https://visitor-badge.laobi.icu/badge?page_id=page.id) -->
 <!--! https://visitor-badge.laobi.icu/#docs -->
